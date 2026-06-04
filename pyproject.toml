@@ -1,0 +1,7 @@
+[project]
+name = "snaptrace"
+version = "0.1.0"
+description = "Snaptrace - A zero-dependency, JSONL-based structured logging library for agentic AI workflows."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
